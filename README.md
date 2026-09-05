@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kristin Mooney 👋
 
-<!--
-**kjmooney23-web/kjmooney23-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | SQL • Tableau • Power BI
 
-Here are some ideas to get you started:
+I love turning raw data into clear, actionable stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- SQL | Tableau | Power BI | Excel
+
+## 📂 Featured Projects
+- 🌐 [Colorado's Broadband Opportunity](https://public.tableau.com/app/profile/kristin.mooney/viz/TableauFiberAnalysis/ColoradosBroadbandOpportunity) — End-to-end broadband market analysis using FCC data, built with SQL & Tableau
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/kristinmooney)
