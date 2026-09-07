@@ -2,7 +2,7 @@
 
 Senior Data Analyst | SQL • Tableau • Power BI
 
-I love turning raw data into clear, actionable stories.
+I love turning raw data into clear, actionable insights.
 
 ## Skills
 - SQL | Tableau | Power BI | Excel
